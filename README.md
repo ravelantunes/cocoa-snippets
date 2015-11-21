@@ -16,7 +16,7 @@ Feel free to contribute with any comments or pull requests.
  static NSString *myStaticString;
  ```
  
- ## Random Int
+## Random Int
  
  Get a random int between 1 and 4:
  
@@ -148,17 +148,4 @@ It can also be animated:
 
 ``` Objective-C
 [[UIApplication sharedApplication] setStatusBarHidden:NO withAnimation:UIStatusBarAnimationSlide];
-```
-
-
-``` Objective-C
-```
-
-``` Objective-C
-```
-
-``` Objective-C
-```
-
-``` Objective-C
 ```
